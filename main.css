@@ -244,7 +244,8 @@ deliver-text p {
 
 
     @media screen and (max-width: 768px) { 
-        
+        .logo img {
+        width: 100px;
     .home-text {
         margin-top: 40px;
     }
